@@ -1,0 +1,2 @@
+*.sh text eol=lf 
+vagrantfile text eol=lf 
